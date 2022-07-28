@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Top 10 NBA Players",
+        "live": "https://project-1-nba-players.netlify.app",
+        "git": "https://github.com/jihok0519/top-10-nba-players",
+        "image": ""
+    },
+    {
+        "name": "AMFM",
+        "live": "https://amfm-project-2.herokuapp.com/",
+        "git": "https://github.com/jihok0519/Project-2-AMFM",
+        "image": ""
+    },
+    {
+        "name": "Organyze",
+        "live": "https://chic-melba-b48ff0.netlify.app/",
+        "git": "https://github.com/jihok0519/Organyz-frontend",
+        "image": ""
+    },
+    {
+        "name": "RememBerthday",
+        "live": "https://remembirthday.herokuapp.com/",
+        "git": "https://github.com/jihok0519/project-4",
+        "image": ""
+    }
+]
